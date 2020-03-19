@@ -1,0 +1,22 @@
+﻿body {
+    background-color: #ffffff;
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+}
+
+span {
+    font-style: italic;
+}
+
+#content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+#game-id {
+    width: 100%;
+    box-sizing: border-box;
+}
